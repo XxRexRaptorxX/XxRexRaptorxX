@@ -52,6 +52,7 @@ My projects range from new structures and items to gameplay mechanics, magic sys
 
 <p align="center">
   <img src="https://github.com/XxRexRaptorxX/General/blob/main/page_decorations/line.png?raw=true" alt="line" width="100%"/>
+    <br><br>
 </p>
 
 ## 💬 Community & Support
@@ -70,6 +71,7 @@ My projects range from new structures and items to gameplay mechanics, magic sys
 
 <p align="center">
   <img src="https://github.com/XxRexRaptorxX/General/blob/main/page_decorations/line.png?raw=true" alt="line" width="100%"/>
+    <br><br>
 </p>
 
 ## ❤️ Support My Work
