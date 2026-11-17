@@ -1,9 +1,4 @@
 ## 👋 About Me
-
-<p align="center">
-  <a href="https://github.com/XxRexRaptorxX"><img src="https://img.shields.io/badge/GitHub-XxRexRaptorxX-242629?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.curseforge.com/members/xxrexraptorxx/projects" target="_blank"><img src="https://cf.way2muchnoise.eu/author/full_XxRexRaptorxX_downloads.svg?badge_style=flat" />
-</p>
     
 I'm a Minecraft mod developer focused on creating mods that expand gameplay, add new content, and improve the overall Minecraft experience.
 
@@ -13,6 +8,11 @@ My projects range from new structures and items to gameplay mechanics, magic sys
 
 <p align="center">
   <br>
+  <a href="https://github.com/XxRexRaptorxX"><img src="https://img.shields.io/badge/GitHub-XxRexRaptorxX-242629?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.curseforge.com/members/xxrexraptorxx/projects" target="_blank"><img src="https://cf.way2muchnoise.eu/author/full_XxRexRaptorxX_downloads.svg?badge_style=flat" />
+</p>
+    
+<p align="center">
   <img src="https://github.com/XxRexRaptorxX/General/blob/main/page_decorations/line_curved.png?raw=true" alt="line" width="100%"/>
 </p>
 
