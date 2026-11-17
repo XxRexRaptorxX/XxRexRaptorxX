@@ -1,18 +1,10 @@
+## 👋 About Me
+
 <p align="center">
   <a href="https://github.com/XxRexRaptorxX"><img src="https://img.shields.io/badge/GitHub-XxRexRaptorxX-242629?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.curseforge.com/members/xxrexraptorxx/projects" target="_blank"><img src="https://cf.way2muchnoise.eu/author/full_XxRexRaptorxX_downloads.svg?badge_style=flat" />
 </p>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/14095742?v=4" alt="Profile picture">
-</p>
-
-<p align="center">
-  <img src="https://github.com/XxRexRaptorxX/General/blob/main/page_decorations/line_curved.png?raw=true" alt="line" width="100%"/>
-</p>
-
-## 👋 About Me
-
+    
 I'm a Minecraft mod developer focused on creating mods that expand gameplay, add new content, and improve the overall Minecraft experience.
 
 I mainly develop for **(Neo-)Forge**, while also maintaining compatibility with other mod loaders where possible.
@@ -20,7 +12,8 @@ I mainly develop for **(Neo-)Forge**, while also maintaining compatibility with 
 My projects range from new structures and items to gameplay mechanics, magic systems, and compatibility features.
 
 <p align="center">
-  <img src="https://github.com/XxRexRaptorxX/General/blob/main/page_decorations/line.png?raw=true" alt="line" width="100%"/>
+  <br>
+  <img src="https://github.com/XxRexRaptorxX/General/blob/main/page_decorations/line_curved.png?raw=true" alt="line" width="100%"/>
 </p>
 
 ## 🧩 My Projects
@@ -32,9 +25,9 @@ My projects range from new structures and items to gameplay mechanics, magic sys
   <a href="https://www.curseforge.com/minecraft/mc-mods/bedrock-miner"><img src="https://github.com/XxRexRaptorxX/Bedrock-Miner/blob/main/src/main/resources/logo.png?raw=true" alt="Bedrock Miner" width="85"/></a>
   <a href="https://www.curseforge.com/minecraft/mc-mods/tool-upgrades"><img src="https://github.com/XxRexRaptorxX/ToolUpgrades/blob/main/src/main/resources/logo.png?raw=true" alt="Tool Upgrades" width="85"/></a>
   <a href="https://www.curseforge.com/minecraft/mc-mods/all-the-compatibility"><img src="https://github.com/XxRexRaptorxX/AllTheCompatibility/blob/main/src/main/resources/logo.png?raw=true" alt="All The Compatibility" width="85"/></a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/customized-dungeon-loot"><img src="https://camo.githubusercontent.com/2291f5f13114f09294ce5e079f8a61b8a2617a8692e68ca453674e93f1982b62/687474703a2f2f692e696d6775722e636f6d2f427065525748442e706e67" alt="Customized Dungeon Loot" width="85"/></a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/customized-dungeon-loot"><img src="https://i.imgur.com/BpeRWHD.png" alt="Customized Dungeon Loot" width="85"/></a>
   <a href="https://www.curseforge.com/minecraft/mc-mods/advanced-sticks"><img src="https://github.com/XxRexRaptorxX/AdvancedSticks/blob/master/src/main/resources/logo.png?raw=true" alt="Advanced Tools" width="85"/></a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/age-of-weapons"><img src="https://camo.githubusercontent.com/e8e1315b08a3bd1fb144ccd47488b1df4033418ad3aee01e61cc9d6e83fa55a5/68747470733a2f2f692e696d6775722e636f6d2f586d324332576a2e706e67" alt="Age of Weapons" width="85"/></a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/age-of-weapons"><img src="https://media.forgecdn.net/avatars/thumbnails/473/442/64/64/637765056801639292.png" alt="Age of Weapons" width="85"/></a>
   <a href="https://www.curseforge.com/minecraft/mc-mods/rune-craft"><img src="https://github.com/XxRexRaptorxX/RuneCraft/blob/main/src/main/resources/logo.png?raw=true" alt="Rune Craft" width="85"/></a>
   <a href="https://www.curseforge.com/minecraft/mc-mods/collectibles"><img src="https://github.com/XxRexRaptorxX/Collectibles/blob/main/src/main/resources/logo.png?raw=true" alt="Collectibles" width="85"/></a> <br> 
   <a href="https://www.curseforge.com/minecraft/mc-mods/extra-gems"><img src="https://github.com/XxRexRaptorxX/ExtraGems/blob/main/src/main/resources/logo.png?raw=true" alt="Extra Gems" width="85"/></a>
